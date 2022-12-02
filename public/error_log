@@ -1,0 +1,1 @@
+[11-May-2021 05:17:01 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\BookingController::changeStatus() in /home/wdnglbxe1zoj/public_html/projects/GC/app/Http/Controllers/Admin/BookingController.php on line 89
